@@ -1,0 +1,364 @@
+body {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+/* navbar   */
+.navbar-nav a {
+  text-decoration: none;
+  margin: 0 10px;
+  color: #666;
+}
+
+#sec-1 {
+  height: 39rem;
+  background-color: rgba(250, 175, 63, 1);
+  padding: 100px;
+}
+.btn-c1 {
+  padding: 18px 0px 18px 0;
+  width: 13rem;
+  background-color: #005aa5;
+  box-shadow: 0 5px 20px -11px #02273b;
+}
+.fa-arrow-right {
+  margin-left: 81px;
+}
+.owl-nav {
+  font-size: 4rem;
+  display: flex;
+  position: absolute;
+  top: 30rem;
+  left: 6rem;
+}
+.previous {
+  height: 10px;
+}
+.owl-dots {
+  height: 20px;
+  width: 20px;
+  border: 2px solid red;
+}
+.owl-theme .owl-nav [class*="owl-"]:hover {
+  background: transparent;
+  color: #fff;
+  text-decoration: none;
+}
+.sec-2 {
+  height: 100%;
+}
+/* carousel-9   */
+#carouselExampleIndicators-9 .carousel-control-prev-icon {
+  position: absolute;
+  top: 80%;
+  left: 47%;
+  border: 1px solid blue;
+  border-radius: 50%;
+  height: 50px;
+  width: 50px;
+}
+#carouselExampleIndicators-9 .carousel-control-next-icon {
+  position: absolute;
+  top: 80%;
+  right: 560%;
+  border: 1px solid blue;
+  border-radius: 50%;
+  height: 50px;
+  width: 50px;
+}
+#scroll::after {
+  content: "";
+  position: absolute;
+  top: 90%;
+  right: 9%;
+  background-image: url(/img/m-scroll.png);
+  background-repeat: no-repeat;
+  height: 100px;
+  width: 50px;
+
+  z-index: 1;
+  animation-name: scroll;
+  animation-duration: 2s;
+  animation-iteration-count: infinite;
+  animation-timing-function: linear;
+  animation-direction: normal;
+}
+@keyframes scroll {
+  from {
+    height: 0px;
+  }
+  to {
+    height: 100px;
+  }
+}
+
+/* section-2   */
+#isec-2 .hsec-2 {
+  font-weight: bold;
+  font-size: 40px;
+}
+/* section-3 therapies   */
+
+.img-3 {
+  box-shadow: 0 0 20px rgb(105, 104, 104);
+  margin-top: 60px;
+  width: 100%;
+  height: 680px;
+}
+#therapy {
+  margin-top: 140px;
+}
+#hsec-3 {
+  font-size: 44px;
+  font-weight: bold;
+}
+.btn-c2 {
+  padding: 18px 0px 18px 0;
+  width: 25rem;
+  background-color: #fff;
+  color: #005392;
+  box-shadow: 0 5px 20px -11px #02273b;
+}
+.cpsule-2 {
+  margin-left: 187px;
+}
+
+#sec-3::before {
+  content: "";
+  height: 42rem;
+  width: 100vw;
+  position: absolute;
+  background-color: #0093e9;
+  background-image: linear-gradient(160deg, #0093e9 0%, #80d0c7 100%);
+  animation-name: one;
+  animation-duration: 3s;
+  animation-iteration-count: 1;
+  animation-timing-function: linear;
+  animation-direction: normal;
+  animation-fill-mode: forwards;
+  z-index: -1;
+}
+@keyframes one {
+  from {
+    width: 0px;
+  }
+  to {
+    width: 100%;
+  }
+}
+
+/* section-4 life   */
+
+#sec-4 {
+  height: 50%;
+  /* background-color: aqua; */
+}
+
+.hsec-4 {
+  font-size: 44px;
+  font-weight: bold;
+}
+
+.car-4 {
+  height: 100%;
+  box-shadow: 0 5px 20px -11px #02273b;
+  margin: 0 7px;
+}
+#arjit::before {
+  content: "";
+  height: 27rem;
+  width: 100vw;
+  position: absolute;
+  background-color: #08aeea;
+  background-image: linear-gradient(0deg, #08aeea 0%, #2af598 100%);
+  animation-name: two;
+  animation-duration: 3s;
+  animation-iteration-count: 1;
+  animation-timing-function: linear;
+  animation-direction: normal;
+  animation-fill-mode: forwards;
+  z-index: -1;
+}
+@keyframes two {
+  from {
+    width: 0px;
+  }
+  to {
+    width: 100%;
+  }
+}
+
+/* section-5  btn   */
+#sec-6 {
+  height: 70%;
+}
+#sec-5 {
+  display: flex;
+  justify-content: center;
+}
+.btn-c5 {
+  padding: 18px 0px 18px 0;
+  width: 15rem;
+  background-color: #005aa5;
+  color: #fff;
+  box-shadow: 0 5px 20px -11px #02273b;
+}
+.cpsule-2 {
+  margin-left: 100px;
+}
+/* section-7 employee   */
+
+.img-car2 {
+  height: 100px;
+  width: 100px;
+  border: 5px solid #fff;
+  border-radius: 60px;
+  box-shadow: 0 0 10px rgb(122, 122, 122);
+  /* margin-right: 27px; */
+}
+.img-side {
+  height: 400px;
+  width: 22px;
+  margin: 0 20px;
+}
+.car-2 {
+  margin-top: 3rem;
+}
+#nitin-45 [data-bs-target] {
+  width: 50px;
+  height: 50px;
+  background-color: aqua;
+}
+.btn-c7 {
+  position: relative;
+}
+#nitin-45 {
+  position: absolute;
+  top: 256px;
+  left: -316px;
+  height: 76px;
+}
+.btn-c7 {
+  padding: 18px 0px 18px 0;
+  width: 15rem;
+  background-color: #005aa5;
+  color: #fff;
+  box-shadow: 0 5px 20px -11px #02273b;
+}
+#sec-7 {
+  display: flex;
+  position: relative;
+  top: 104px;
+  left: 0px;
+}
+#inner-2 {
+  height: 38rem;
+}
+#secr-7 {
+  height: 37rem;
+  /* background-color: red; */
+}
+/* section twitter  */
+.fa-twitter {
+  font-size: 30px;
+}
+.car-t {
+  border-radius: 0;
+  box-shadow: 0 0 20px rgb(170, 169, 169);
+}
+/* footer   */
+#footer {
+  display: flex;
+  justify-content: space-around;
+  background-color: #005392;
+  color: #5e96c7;
+}
+#footer p {
+  margin: 0;
+}
+#foot::after {
+  content: "";
+  position: absolute;
+  height: 5%;
+  background-color: #005392;
+  text-decoration: none;
+}
+.footend {
+  background-color: #005392;
+  color: #73a1ca;
+  text-decoration: none;
+}
+/* section-last carousel   */
+#car-last {
+  height: 700px;
+  /* background-color: hotpink; */
+}
+.car-last {
+  height: 100%;
+
+  /* background-color: red; */
+
+  margin-top: 80px;
+  width: 100%;
+}
+.car-last h2 {
+  font-size: 50px;
+  font-weight: bold;
+}
+.last-btn {
+  padding: 18px 0px 18px 0;
+  width: 15rem;
+  background-color: #005aa5;
+  color: #fff;
+  box-shadow: 0 5px 20px -11px #02273b;
+}
+.img-last {
+  height: 100%;
+  width: 100%;
+}
+.carousel-caption {
+  background-color: #3c99c8;
+  width: 40%;
+  height: 30%;
+  position: absolute;
+  bottom: -19px;
+  left: 558px;
+}
+#carouselExampleDark-6 .carousel-control-prev-icon {
+  position: absolute;
+  left: 656px;
+  bottom: 29px;
+  border: 2px solid #fff;
+  border-radius: 50%;
+}
+#carouselExampleDark-6 .carousel-control-next-icon {
+  position: absolute;
+  bottom: 29px;
+  right: 407px;
+  border: 2px solid #fff;
+  border-radius: 50%;
+}
+#vicky::before {
+  content: "";
+  height: 35rem;
+  width: 100vw;
+  position: absolute;
+  background-color: #08aeea;
+  background-image: linear-gradient(0deg, #08aeea 0%, #2af598 100%);
+  animation-name: three;
+  animation-duration: 3s;
+  animation-iteration-count: 1;
+  animation-timing-function: linear;
+  animation-direction: normal;
+  animation-fill-mode: forwards;
+  z-index: -1;
+}
+@keyframes three {
+  from {
+    width: 0px;
+  }
+  to {
+    width: 100%;
+  }
+}

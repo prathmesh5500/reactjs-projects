@@ -1,0 +1,349 @@
+@media screen and (max-width: 575.98px) {
+  .imgfrst {
+    height: 700px;
+  }
+  #carouselExampleIndicators-9 .carousel-control-prev-icon {
+    position: absolute;
+    top: 600px;
+    left: 26px;
+    border: 2px solid #fff;
+    border-radius: 50%;
+    height: 50px;
+    width: 50px;
+  }
+  #carouselExampleIndicators-9 .carousel-control-next-icon {
+    position: absolute;
+    top: 598px;
+    right: 344px;
+    border: 2px solid #fff;
+    border-radius: 50%;
+    height: 50px;
+    width: 50px;
+  }
+  #therr {
+    padding-right: 40px;
+    width: 450px;
+  }
+  #sec-3::before {
+    position: absolute;
+    top: 173rem;
+    height: 23rem;
+    z-index: 0;
+    margin-left: 20px;
+    width: 450px !important;
+  }
+  #therR {
+    position: relative;
+    top: -300px;
+    left: 0px;
+  }
+  .img-side {
+    display: none;
+  }
+  #nitin-45 {
+    position: absolute;
+    top: 60%;
+    left: 3%;
+    height: 80px;
+  }
+  #sec-7 {
+    margin: auto;
+  }
+  #secr-7 {
+    height: 47rem;
+  }
+  #car-last {
+    height: 1072px;
+  }
+  #carouselExampleDark-6 .carousel-control-prev-icon {
+    position: absolute;
+    left: 69%;
+  }
+  #carouselExampleDark-6 .carousel-control-next-icon {
+    position: absolute;
+    bottom: 2.9%;
+    right: 493%;
+  }
+  .ft-b {
+    display: none;
+  }
+}
+
+@media screen and (min-width: 576px) and (max-width: 767.98px) {
+  .imgfrst {
+    height: 700px;
+  }
+  #carouselExampleIndicators-9 .carousel-control-prev-icon {
+    position: absolute;
+    top: 85%;
+    left: 20%;
+    border: 2px solid red;
+    border-radius: 50%;
+    height: 50px;
+    width: 50px;
+  }
+  #carouselExampleIndicators-9 .carousel-control-next-icon {
+    position: absolute;
+    top: 85%;
+    left: -475%;
+    border: 2px solid red;
+    border-radius: 50%;
+    height: 50px;
+    width: 50px;
+  }
+  #therr {
+    padding-right: 40px;
+    width: 450px;
+  }
+  #sec-3::before {
+    position: absolute;
+    top: 173rem;
+    height: 23rem;
+    z-index: 0;
+    margin-left: 20px;
+    width: 95% !important;
+  }
+  #therR {
+    position: relative;
+    top: -300px;
+    left: 0px;
+  }
+  .img-side {
+    display: none;
+  }
+  #nitin-45 {
+    position: absolute;
+    top: 457px;
+    left: -45px;
+    height: 80px;
+  }
+  #sec-7 {
+    margin: auto;
+  }
+  #secr-7 {
+    height: 47rem;
+  }
+  #car-last {
+    height: 1072px;
+  }
+  #carouselExampleDark-6 .carousel-control-prev-icon {
+    position: absolute;
+    left: 45px;
+  }
+  #carouselExampleDark-6 .carousel-control-next-icon {
+    position: absolute;
+    bottom: 29px;
+    right: 359px;
+  }
+  .ft-b {
+    display: none;
+  }
+}
+
+@media screen and (min-width: 768px) and (max-width: 991.98px) {
+  .imgfrst {
+    height: 700px;
+  }
+  #carouselExampleIndicators-9 .carousel-control-prev-icon {
+    position: absolute;
+    top: 85%;
+    left: 20%;
+    border: 2px solid red;
+    border-radius: 50%;
+    height: 50px;
+    width: 50px;
+  }
+  #carouselExampleIndicators-9 .carousel-control-next-icon {
+    position: absolute;
+    top: 85%;
+    left: -475%;
+    border: 2px solid red;
+    border-radius: 50%;
+    height: 50px;
+    width: 50px;
+  }
+  #therr {
+    padding-right: 40px;
+    width: 450px;
+  }
+  #sec-3::before {
+    position: absolute;
+    top: 134rem;
+    height: 23rem;
+    z-index: 0;
+    margin-left: 20px;
+    width: 95% !important;
+  }
+  #therR {
+    position: relative;
+    top: -300px;
+    left: 0px;
+  }
+  .img-side {
+    display: none;
+  }
+  #nitin-45 {
+    position: absolute;
+    top: 51%;
+    left: 0%;
+  }
+  #sec-7 {
+    margin: auto;
+  }
+  #secr-7 {
+    height: 47rem;
+  }
+  #car-last {
+    height: 1072px;
+  }
+  #carouselExampleDark-6 .carousel-control-prev-icon {
+    position: absolute;
+    left: 45px;
+  }
+  #carouselExampleDark-6 .carousel-control-next-icon {
+    position: absolute;
+    bottom: 29px;
+    right: 359px;
+  }
+  .ft-b {
+    display: none;
+  }
+}
+@media screen and (min-width: 992px) and (max-width: 1199.98px) {
+  .imgfrst {
+    height: 700px;
+  }
+  #carouselExampleIndicators-9 .carousel-control-prev-icon {
+    position: absolute;
+    top: 85%;
+    left: 20%;
+    border: 2px solid red;
+    border-radius: 50%;
+    height: 50px;
+    width: 50px;
+  }
+  #carouselExampleIndicators-9 .carousel-control-next-icon {
+    position: absolute;
+    top: 85%;
+    left: -475%;
+    border: 2px solid red;
+    border-radius: 50%;
+    height: 50px;
+    width: 50px;
+  }
+  #therr {
+    padding-right: 40px;
+    width: 450px;
+  }
+  #sec-3::before {
+    position: absolute;
+    top: 134rem;
+    height: 23rem;
+    z-index: 0;
+    margin-left: 20px;
+    width: 95% !important;
+  }
+  #therR {
+    position: relative;
+    top: -300px;
+    left: 0px;
+  }
+  .img-side {
+    display: none;
+  }
+  #nitin-45 {
+    position: absolute;
+    top: 51%;
+    left: 0%;
+  }
+  #sec-7 {
+    margin: auto;
+  }
+  #secr-7 {
+    height: 47rem;
+  }
+  #car-last {
+    height: 1072px;
+  }
+  #carouselExampleDark-6 .carousel-control-prev-icon {
+    position: absolute;
+    left: 45px;
+  }
+  #carouselExampleDark-6 .carousel-control-next-icon {
+    position: absolute;
+    bottom: 29px;
+    right: 359px;
+  }
+  .ft-b {
+    display: none;
+  }
+}
+@media screen and (min-width: 1400px) {
+  .imgfrst {
+    height: 700px;
+  }
+  #carouselExampleIndicators-9 .carousel-control-prev-icon {
+    position: absolute;
+    top: 85%;
+    left: 20%;
+    border: 2px solid red;
+    border-radius: 50%;
+    height: 50px;
+    width: 50px;
+  }
+  #carouselExampleIndicators-9 .carousel-control-next-icon {
+    position: absolute;
+    top: 85%;
+    left: -475%;
+    border: 2px solid red;
+    border-radius: 50%;
+    height: 50px;
+    width: 50px;
+  }
+  #therr {
+    padding-right: 40px;
+    width: 450px;
+  }
+  #sec-3::before {
+    position: absolute;
+    top: 134rem;
+    height: 23rem;
+    z-index: 0;
+    margin-left: 20px;
+    width: 95% !important;
+  }
+  #therR {
+    position: relative;
+    top: -300px;
+    left: 0px;
+  }
+  .img-side {
+    display: none;
+  }
+  #nitin-45 {
+    position: absolute;
+    top: 51%;
+    left: 0%;
+  }
+  #sec-7 {
+    margin: auto;
+  }
+  #secr-7 {
+    height: 47rem;
+  }
+  #car-last {
+    height: 1072px;
+  }
+  #carouselExampleDark-6 .carousel-control-prev-icon {
+    position: absolute;
+    left: 45px;
+  }
+  #carouselExampleDark-6 .carousel-control-next-icon {
+    position: absolute;
+    bottom: 29px;
+    right: 359px;
+  }
+  .ft-b {
+    display: none;
+  }
+}
